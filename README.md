@@ -44,7 +44,8 @@ Please make sure to update tests as appropriate.
 <!-- LICENSE -->
 ## License
 
-Do whatever you want with the script. I created it for helping the Cisco Community
+License based on GNU General Public License v3.0. 
+Check License section for more detail
 
 <!-- CONTACT -->
 ## Contact
